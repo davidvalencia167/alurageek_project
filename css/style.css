@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto";
+}
+
+.header__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #5300C8;
+}
+
+.header__content img {
+    height: 100px;
+}
+
+.header__content h1 {
+    height: 42px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #E5E5E5;
+}
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.products__form,
+.products__section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+}
+
+.products__form__title,
+.products__section__title {
+    color: #000000;
+}
+
+.form-group input {
+    gap: 10px;
+    width: 392px;
+    border-radius: 30px;
+    border: 3px solid #03318C;
+    height: 58px;
+    padding: 0 1rem 0;
+}
+
+.button__pair {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.button {
+    width: 188px;
+    height: 55px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: #038c25 0.3s ease;
+}
+
+.send {
+    background-color: #03318C;
+    color: white;
+}
+
+.clear {
+    background-color: #FFFFFF;
+    color: #03318C;
+    border: 3px solid #03318C;
+}
+
+.products__section__list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.products__section__items {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #5D04D9;
+    border: 3px;
+    border-radius: 10px;
+    padding: 10px;
+    gap: 10px;
+}
+
+.products__section__items img {
+    border-radius: 5px;
+    width: 176px;
+    height: 174px;
+}
+
+.card__section__name {
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+
+.card__section__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.footer__alura {
+    align-items: center;
+    height: 140px;
+    background-color: #5300C8;
+}
+
+.footer__text {
+    text-align: center;
+    padding: 40px 0;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.footer__text__year {
+    text-align: center;
+    color: #FFFFFF;
+}

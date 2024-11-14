@@ -1,0 +1,58 @@
+{
+  "productos": [
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1266689_lifestyle?$plpDeskRF$",
+      "nombre": "Mesh Polo Shirt",
+      "precio": "$110,000",
+      "id": "086c"
+    },
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1266705_lifestyle?$plpDeskRF$",
+      "nombre": "Cotton Polo Shirt",
+      "precio": "$110,000",
+      "id": "5203"
+    },
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1487000_lifestyle?$plpDeskRF$",
+      "nombre": "Sleeve Polo Shirt",
+      "precio": "$115,000",
+      "id": "ad5c"
+    },
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI710917050007_lifestyle?$plpDeskRF$",
+      "nombre": "Polo-Collar Sweater",
+      "precio": "$138,000",
+      "id": "cf86"
+    },
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI710953336003_alternate4?$plpDeskRF$",
+      "nombre": "Fit Dog Polo Shirt",
+      "precio": "$125,000",
+      "id": "b34a"
+    },
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI710941439004_lifestyle?$plpDeskRF$",
+      "nombre": "Fit Stretch Polo",
+      "precio": "$110,000",
+      "id": "18fd"
+    },
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI710941104001_lifestyle?$plpDeskRF$",
+      "nombre": "Wool Polo-Sweater",
+      "precio": "$168,000",
+      "id": "5b14"
+    },
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1396581_lifestyle?$plpDeskRF$",
+      "nombre": "Classic Fit Soft",
+      "precio": "$115,000",
+      "id": "29fa"
+    },
+    {
+      "imagen": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1488338_lifestyle?$plpDeskRF$",
+      "nombre": "Classic Fit Knit",
+      "precio": "$138,000",
+      "id": "ff6f"
+    }
+  ]
+}
