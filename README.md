@@ -26,23 +26,7 @@ Los productos ingresados se almacenan en una base de datos simulada y se muestra
 - **JavaScript (ES6+)**
 - **Fetch API** para llamadas a la API.
 - **JSON Server** para simular una base de datos RESTful.
-
-## Estructura de Archivos
-
-```plaintext
-AluraGeek/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── images/
-│   └── (imágenes del proyecto)
-├── js/
-│   ├── conexionAPI.js
-│   ├── crearProducto.js
-│   └── mostrarProductos.js
-└── README.md
-```
+  
 ## Instalación y Configuración
 
 1. Clona el repositorio en tu máquina local:
