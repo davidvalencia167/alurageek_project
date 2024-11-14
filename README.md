@@ -42,8 +42,9 @@ AluraGeek/
 │   ├── crearProducto.js
 │   └── mostrarProductos.js
 └── README.md
+```plaintext
 
-## Instalacion y Configuracion
+## Instalación y Configuración
 
 1. Clona el repositorio en tu máquina local:
   ```bash
@@ -85,10 +86,5 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
   git push origin feature/nueva-funcionalidad
 5. Crea un Pull Request en GitHub.
 
-## 📬 Creditos
+## Creditos
 Desarrollado por David Santiago Valencia Blanco.
-
-## Licencia
-Este proyecto está bajo la licencia MIT. Puedes leer más en el archivo ```bash LICENSE.
-
-
