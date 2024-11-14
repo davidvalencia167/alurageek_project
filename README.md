@@ -43,7 +43,6 @@ AluraGeek/
 │   └── mostrarProductos.js
 └── README.md
 ```
-
 ## Instalación y Configuración
 
 1. Clona el repositorio en tu máquina local:
