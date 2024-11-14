@@ -31,9 +31,46 @@ Los productos ingresados se almacenan en una base de datos simulada y se muestra
 
 Si deseas clonar este proyecto y ejecutarlo en tu máquina local:
 
-1. Clona el repositorio:
+1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/davidvalencia167/mi-portafolio.git
-2. Navega a la carpeta del proyecto:
+   git clone https://github.com/usuario/AluraGeek.git
+2. Navega al directorio del proyecto:
    ```bash
-   cd mi-portafolio
+   cd AluraGeek
+3. Instala JSON Server globalmente (si no lo tienes):
+   ```bash
+   npm install -g json-server
+4. Inicia JSON Server:
+   ```bash
+   npm start
+
+# Uso
+
+## Agregar Producto
+Completa el formulario y haz clic en **"Enviar"** para agregar un nuevo producto.
+
+## Eliminar Producto
+Utiliza el botón de **eliminar** en la lista para borrar un producto de la base de datos.
+
+## Limpiar Formulario
+El botón **"Limpiar"** permite reiniciar los campos del formulario.
+
+## Contribuciones
+
+Si deseas contribuir al proyecto, por favor sigue estos pasos:
+
+1. Haz un fork del proyecto.
+2. Crea una nueva rama:
+   ```bash
+   git checkout -b feature/nueva-funcionalidad
+3. Realiza tus cambios y haz commit:
+   ```bash
+   git commit -m 'Agrega una nueva funcionalidad'
+4. Envía tus cambios a la rama principal:
+   ```bash
+   git push origin feature/nueva-funcionalidad
+5. Crea un Pull Request en GitHub.
+
+## Créditos
+
+Desarrollado por David Santiago Valencia Blanco.
