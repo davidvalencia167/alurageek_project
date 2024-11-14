@@ -42,7 +42,7 @@ AluraGeek/
 │   ├── crearProducto.js
 │   └── mostrarProductos.js
 └── README.md
-```plaintext
+```
 
 ## Instalación y Configuración
 
